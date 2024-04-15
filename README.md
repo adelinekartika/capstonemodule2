@@ -1,5 +1,6 @@
 # capstonemodule2
 Capstone Module 2: Data Analysis
+<br>
 Airbnb Listings Bangkok
 
 Dibuat Oleh: Adeline Kartika Tiku Putri (JCDSOL-013 Kelas 02)
@@ -76,3 +77,6 @@ Dari analisis yang telah dilakukan, kita bisa membuat kesimpulan sebagai berikut
 * Dapat memberikan contoh opsi penamaan Airbnb kepada Host baru saat melakukan pendaftaran.
 * Memperbaiki sistem penambahan/pembaharuan data lebih baik lagi agar tidak terjadi data duplikat.
 * Memperkuat analisis data untuk memberikan wawasan yang lebih dalam tentang preferensi dan kebutuhan pengguna Airbnb di Bangkok.
+
+<br>
+Link ke Dashboard Tablue dapat melalui https://public.tableau.com/views/Capstone2_Airbnb_Adeline/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link berikut.
